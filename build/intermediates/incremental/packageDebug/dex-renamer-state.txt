@@ -1,0 +1,4 @@
+#Sat Dec 28 19:24:55 CST 2019
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\common.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\src\\main\\res\\mipmap-hdpi\\common.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\MyApplication1\\bad a time\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
